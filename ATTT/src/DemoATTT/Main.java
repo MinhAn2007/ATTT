@@ -8,7 +8,7 @@ import javax.swing.JTabbedPane;
 
 public class Main extends JFrame {
 	/**
-	 * 
+	 * qưe123123123123123
 	 */
 	private static final long serialVersionUID = 1L;
 
