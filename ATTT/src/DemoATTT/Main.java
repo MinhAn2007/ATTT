@@ -14,6 +14,8 @@ public class Main extends JFrame {
 
 	public Main() throws UnsupportedEncodingException {
 		setTitle("Encrypt and Decrypt");
+		setTitle("Encrypt and Decrypt");
+
 		setSize(900, 350);
 		setLocationRelativeTo(null);
 		setVisible(true);
